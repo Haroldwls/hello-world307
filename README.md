@@ -6,3 +6,5 @@ the Source Control view, the editor shows a diff view that highlights the file c
 compared to the previously committed file.
 
 This is a readme file created for Practical GitHub Hands-on.
+
+grace is a chubby fella
